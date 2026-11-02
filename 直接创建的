@@ -1,2 +1,4 @@
 I find two ways to publish my file, one is to create a new file in a repository, or just drag it. 
 I will try to drag a .py file and a MATLAB file here to test if I can add any files here.
+事实证明：1. 用中文写是没问题的
+         2. 可以直接拖动MATLAB文件和Python文件上来，并且打开也可以直接看到。
